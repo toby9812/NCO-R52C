@@ -1,1 +1,10 @@
-# NCO-R52C
+# 景旺NCO-R52C
+![image](https://github.com/toby9812/NCO-R52C/assets/161737346/805310cf-b60c-44ec-9ee4-c5686fcc1f29)
+![image](https://github.com/toby9812/NCO-R52C/assets/161737346/ca95a8b1-89f3-458a-bdf7-4348a4b2d963)
+![image](https://github.com/toby9812/NCO-R52C/assets/161737346/08f9b237-8b70-45b5-a414-f20d30036e27)
+![image](https://github.com/toby9812/NCO-R52C/assets/161737346/b217c1d1-25b5-4f57-ac61-0d58075ecb2e)
+![image](https://github.com/toby9812/NCO-R52C/assets/161737346/983a2ca7-4100-4243-817f-07f6ac6e01f9)
+![image](https://github.com/toby9812/NCO-R52C/assets/161737346/733a537e-e050-48f6-bfaa-6ae4a513d3d6)
+![image](https://github.com/toby9812/NCO-R52C/assets/161737346/14b46124-3ae4-4d31-b4dd-bae0d468aa06)
+![image](https://github.com/toby9812/NCO-R52C/assets/161737346/90b6b6d0-e61a-444a-84ae-a4e9b67cc42f)
+![image](https://github.com/toby9812/NCO-R52C/assets/161737346/48554378-2c9b-4346-8ba8-7b4d7c78beae)
