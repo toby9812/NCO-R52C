@@ -1,0 +1,23 @@
+REM "MAIN"
+REM "VER.202407"
+USE 1 '使用間歇文件1
+SETM O172,0 '關閉子程序執行訊號
+SETM O171, 1 '主程序執行中
+SETM O174,0 '爐前等待訊號關閉
+SETM O175,0 '取板位訊號關閉
+SETM O176,0 '準備放板訊號關閉
+SETM O177,0 '放板位訊號關閉
+V30% = V1%*0.6 '中速
+V31% = V1%*1 '高速
+V17%=V1% '速度值回傳PLC
+IF O169=1 '判斷手臂在原點位
+ LETVI V18%,11 '設定V18%變數為11
+ENDIF
+*START
+IF I169=1 '判斷I169觸發
+ JMPP 2 '執行回原點子程序
+ELSEIF I170=1 '判斷I170觸發
+ JMPP 3 '執行取放板動作子程序
+ENDIF
+GOTO *START '跳至*START位置執行
+END
